@@ -145,20 +145,10 @@ java --module-path bin -m Add2Num/Main.Main
 Khi chạy thành công, chương trình sẽ in ra các bước cộng và kết quả cuối cùng như sau:
 
 ```text
-Bước: 1 lấy số 4 cộng 9 nhớ 0 = 13 ghi 3,nhớ 1
-Bước: 2 lấy số 3 cộng 6 nhớ 1 = 10 ghi 0,nhớ 1
-Bước: 3 lấy số 2 cộng 5 nhớ 1 = 8 ghi 8,nhớ 0
-Bước: 4 l?y s? 1 c?ng 7 nh? 0 = 8 ghi 8,nh? 0
-K?t qu?: 8803
-```
-
-Dạng chính xác hơn (với ký tự tiếng Việt có thể hiển thị theo locale máy):
-
-```text
-Bước: 1 lấy số 4 cộng 9 nhớ 0 = 13 ghi 3,nhớ 1
-Bước: 2 lấy số 3 cộng 6 nhớ 1 = 10 ghi 0,nhớ 1
-Bước: 3 lấy số 2 cộng 5 nhớ 1 = 8 ghi 8,nhớ 0
-Bước: 4 lấy số 1 cộng 7 nhớ 0 = 8 ghi 8,nhớ 0
+Bước: 1 lấy số 4 cộng 9 nhớ 0 = 13 ghi 3, nhớ 1
+Bước: 2 lấy số 3 cộng 6 nhớ 1 = 10 ghi 0, nhớ 1
+Bước: 3 lấy số 2 cộng 5 nhớ 1 = 8 ghi 8, nhớ 0
+Bước: 4 lấy số 1 cộng 7 nhớ 0 = 8 ghi 8, nhớ 0
 Kết quả: 8803
 ```
 
